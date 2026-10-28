@@ -1,2 +1,2 @@
 # aadhi-repository
-This is my repository for all of my Stardance stuff :) I'll probably use this for other Hack Club things as well.
+This is my very first Slack Bot and my very first coding project. It is meant to tell you a joke or a fun fact, and tell you to drink water
